@@ -38,16 +38,6 @@ The goal is to compare **ARIMA** (Auto-Regressive Integrated Moving Average) wit
 
 ---
 
-## 📉 Results & Visualization
-
-### ARIMA Forecast vs Actual
-![ARIMA Forecast](cfbd3c5b-a52f-4aff-a435-4afcfb3b62c4.png)
-
-### LSTM Forecast vs Actual
-![LSTM Forecast](080435a0-4b11-49ad-9a80-ae53801c19c2.png)
-
----
-
 ## ✅ Key Insights
 - ARIMA is useful as a baseline but limited in capturing high volatility.
 - LSTM significantly reduced error and modeled non-linear stock movements better.
